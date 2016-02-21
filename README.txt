@@ -1,0 +1,1 @@
+Software serial port implementation for WinAVR with no Arduino dependencies. Base file adjusted from Arduino SDK version 1.6.7
